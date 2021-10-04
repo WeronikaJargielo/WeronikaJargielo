@@ -3,7 +3,7 @@ Hello, my name is @WeronikaJargielo.
 I finished studying Biotechnology with a specialization in Bioinformatics at the Silesian University of Technology. 
 During my studies, I've begun my adventure with programming. 
 Since I was getting more and more familiar with IT, I wanted to concentrate my career on Web Development.
-Currently, I've started looking for a job in IT with a special interest in frontend technology.
+Currently, I've started looking for a job in IT.
 
 ## Knowledge 😎 
 I really like programming in Python :snake: and Java :coffee:.

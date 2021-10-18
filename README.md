@@ -1,19 +1,13 @@
 # Let me introduce myself! 👋 
-Hello, my name is @WeronikaJargielo. 
+Hello,
+my name is Weronika. 
 I finished studying Biotechnology with a specialization in Bioinformatics at the Silesian University of Technology. 
-During my studies, I've begun my adventure with programming. 
-Since I was getting more and more familiar with IT, I wanted to concentrate my career on Web Development.
-Currently, I've started looking for a job in IT.
-
-## Knowledge 😎 
-I really like programming in Python :snake: and Java :coffee:.
-I’m currently learning front-end technologies: HTML, CSS/SCSS and JavaScript. 
+During my studies, I've begun my adventure with programming using mainly Python. 
+Then I participated in a meeting that was focused on introducing Java to beginners and I fell in love with this programming language. It was the moment when I decided to focus my career path on IT with a special interest in developing projects with Java.
 
 ## My hobbies 👀
-I love mountain hiking and mountain climbing. 
-Also, I'm a happy mother of quite a huge group of home plants. 
-In my free time, I really like playing board games and riding a bike.
-Lately, I've started going to the gym and lifting weights and I think that it is my new hobby.
+During my holidays and weekends, I love mountain hiking and mountain climbing. 
+Also, I'm a happy mother of quite a huge group of home plants and two little kitties. In my free time, I really like playing board games, riding a bike, and playing the piano, or at least trying since I am learning on my own.
 
 
 ## Contact 📫 
